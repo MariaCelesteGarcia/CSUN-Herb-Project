@@ -3,7 +3,7 @@
 <param ve-config 
        title="16th Century Herbals"
        author= "Maria Garcia"
-       banner="https://upload.wikimedia.org/wikipedia/commons/2/21/Illustration_Agrimonia_eupatoria0.jpg" 
+       banner="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShI4vFoi9pe_K371ERwPrjCTjjYgfV6eD9ll3Kpp5Q9QRfVyqfmquaHn3PcPwQdtho-qs&usqp=CAU" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
