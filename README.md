@@ -6,9 +6,7 @@
        banner="https://www.rct.uk/sites/default/files/styles/rctr-scale-crop-1600-625/public/400994%20banner.jpg?itok=89ohFJ-9" 
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
+<!-- <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.rct.uk/sites/default/files/collection-online/e/d/222063-1319816975.jpg" width="811" height="531" -->
 <param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
@@ -20,9 +18,9 @@ Herbals represented an essential tool for physicians, pharmacists, and herbalist
 <param ve-image 
         manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-# Basic usage
 
-## Image
+
+## Codex Badiano
 
 The Libellus de Medicinalibus Indorum Herbis (Latin for "Little Book of the Medicinal Herbs of the Indians") is an Aztec herbal manuscript, describing the medicinal properties of various plants used by the Aztecs. It was translated into Latin by Juan Badiano, from a Nahuatl original composed in the Colegio de Santa Cruz de Tlatelolco in 1552 by Martín de la Cruz that is no longer extant. The Libellus is also known as the Badianus Manuscript, after the translator; the Codex de la Cruz-Badiano, after both the original author and translator; and the Codex Barberini, after Cardinal Francesco Barberini, who had possession of the manuscript in the early 17th century.
 The Badianus Manuscript of 1552 is the first illustrated and descriptive scientific text of Nahua medicine and botany produced in the Americas. It is a significant text in the history of botany and the history of medicine.[^1]
