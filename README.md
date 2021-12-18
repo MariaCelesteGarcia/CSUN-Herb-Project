@@ -3,7 +3,7 @@
 <param ve-config 
        title="16th Century Herbals"
        author= "Maria Garcia"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://ecowarriorprincess.net/wp-content/uploads/2018/02/Sustainable-Living_-16-Herbs-That-An-Amateur-Green-Thumb-Can-Easily-Grow.png" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/2/21/Illustration_Agrimonia_eupatoria0.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
