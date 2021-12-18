@@ -23,6 +23,10 @@ The Badianus Manuscript of 1552 is the first illustrated and descriptive scienti
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Libellus_de_medicinalibus_Indorum_herbis_ff._38v-39r.jpg">
 
+## European and New World Herbals
+Both European and New World herbalist show the same belief in the power of animals and stones. The preparation of the drug/remedies and application are identical and the diseases treated are very much the same. As a result, the same type of medecine was developed in both regions. Through obeservation, experience, and reasoning, herbalists were able to differentiate certain symptoms of diseases. They were able to learn to group them in illustrations. Another common idea among herbalists in Europe and the New Word is that with herbals, they created powders, potions, oitments, and plasters. 16th century patients were treated a long the same lines on both continents. 
+<param ve- image url="https://www.newberry.org/sites/default/files/styles/full_width/public/Kreuterbuch%201598%20edition.jpg?itok=7f9_zf6k">
+
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
