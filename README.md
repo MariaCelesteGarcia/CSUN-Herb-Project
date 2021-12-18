@@ -9,21 +9,12 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
 
 # Famous Herbals
-
 Herbals represented an essential tool for physicians, pharmacists, and herbalists who gathered or cultivated their own plants for the treatment of patients. During the 16th century the study of plants began to be based on critical observations as many studied plants with great depth. Many famous herbals were made during the era. In Europe The Grete Herball and The Herball were published. In the New World, The Badianus Manuscript and The Florentine Codex were being constructed. Based on observations, European and New World herbals were no different than each other. John Gerard's Herbal or General History of Plants has long been the most famous English herbal. The Grete Herball is a translation of the French herbal Le Grand Herbier, which itself was a translation of a German herbal printed in Mainz in 1485 or 1491.The Badianus Manuscript is an Aztec herbal manuscript, describing the medicinal properties of various plants used by the Aztecs. The Florentine Codex is a 16th-century ethnographic research study in Mesoamerica by the Spanish Franciscan friar Bernardino de Sahagún.
-<param ve-image 
-        manifest="https://upload.wikimedia.org/wikipedia/en/2/29/The_Grete_Herball%2C_Title_Page%2C_1526.jpg">
-
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/en/2/29/The_Grete_Herball%2C_Title_Page%2C_1526.jpg">
 
 ## Codex Badiano
-
 The Libellus de Medicinalibus Indorum Herbis (Latin for "Little Book of the Medicinal Herbs of the Indians") is an Aztec herbal manuscript, describing the medicinal properties of various plants used by the Aztecs. It was translated into Latin by Juan Badiano, from a Nahuatl original composed in the Colegio de Santa Cruz de Tlatelolco in 1552 by Martín de la Cruz that is no longer extant. The Libellus is also known as the Badianus Manuscript, after the translator; the Codex de la Cruz-Badiano, after both the original author and translator; and the Codex Barberini, after Cardinal Francesco Barberini, who had possession of the manuscript in the early 17th century.
 The Badianus Manuscript of 1552 is the first illustrated and descriptive scientific text of Nahua medicine and botany produced in the Americas. It is a significant text in the history of botany and the history of medicine.[^1]
 <param ve-image 
