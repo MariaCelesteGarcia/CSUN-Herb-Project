@@ -6,7 +6,9 @@
        banner="https://www.rct.uk/sites/default/files/styles/rctr-scale-crop-1600-625/public/400994%20banner.jpg?itok=89ohFJ-9" 
        layout="vertical">
 
-<!-- <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.rct.uk/sites/default/files/collection-online/e/d/222063-1319816975.jpg" width="811" height="531" -->
+<!-- Entities discussed throughout the essay are typically defined before the essay text and
+     are thus available in all text.  Entity identifiers (QIDs) can be found in either
+     Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
