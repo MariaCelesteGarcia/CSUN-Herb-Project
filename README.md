@@ -12,6 +12,12 @@
 
 # Famous Herbals
 Herbals represented an essential tool for physicians, pharmacists, and herbalists who gathered or cultivated their own plants for the treatment of patients. During the 16th century the study of plants began to be based on critical observations as many studied plants with great depth. Many famous herbals were made during the era. In Europe The Grete Herball and The Herball were published. In the New World, The Badianus Manuscript and The Florentine Codex were being constructed. Based on observations, European and New World herbals were no different than each other. John Gerard's Herbal or General History of Plants has long been the most famous English herbal. The Grete Herball is a translation of the French herbal Le Grand Herbier, which itself was a translation of a German herbal printed in Mainz in 1485 or 1491.The Badianus Manuscript is an Aztec herbal manuscript, describing the medicinal properties of various plants used by the Aztecs. The Florentine Codex is a 16th-century ethnographic research study in Mesoamerica by the Spanish Franciscan friar Bernardino de Sahagún.
+<param ve-imgae 
+       label="Health and Herbs in the dark ages"
+       url="https://thebiomedicalscientist.net/sites/default/files/media/image/2019/p26-30-the-big-story-science-franciscan-monks-in-their-vegetable-garden-middle-ages-alamy-ag4dhc.jpg">
+
+## The Grete Herball
+The most famous of the early printed English herbals is the Grete Herball, first published in 1526 by Peter Treveris. It is made up of information from earlier works. As an herbal text, the book's content is primarily on the medicinal uses and properties of the materials described.There are approximately 400 entries for plants and non-botanical items. Of these, 150 plants are English natives.
 <param ve-image 
        label="The Grete Herbal" 
        description="Elegant Illustrated Manuscripts That Once Dominated Medicine" 
