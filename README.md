@@ -3,7 +3,7 @@
 <param ve-config 
        title="16th Century Herbals"
        author= "Maria Garcia"
-       banner="https://karooridgeconservancy.com/wp-content/uploads/2019/10/SG2931-1040x423.jpg" 
+       banner="https://www.rct.uk/sites/default/files/styles/rctr-scale-crop-1600-625/public/400994%20banner.jpg?itok=89ohFJ-9" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
