@@ -3,7 +3,7 @@
 <param ve-config 
        title="16th Century Herbals"
        author= "Maria Garcia"
-       banner="https://pictures.abebooks.com/inventory/22589564159.jpg" 
+       banner="https://i0.wp.com/spitalfieldslife.com/wp-content/uploads/2012/10/a.jpg?resize=600%2C407" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
