@@ -29,7 +29,7 @@ Both European and New World herbalist show the same belief in the power of anima
 
 ## Columbian Exchange
 As Europe colonized new territories, new plants were introduced to practitioners, doctors, physicians, and any foreigner. The Age of Exploration and the Columbian Exchange resulted in an exchange of new plants, animals, and diseases between the Old and New Worlds. As a result, the study of herbs was revived. The study of plants began to be based on critical observations as many studied plants with great depth. The sixteenth century saw a rise in the availability of herbals as they flourished following the invention of the printing press. As a result, translations of original works began to fill libraries around the world. Also, manuscripts from the New World began to be analyzed by Europeans and herbalists, particularly priests, began to add to these ancient manuscripts. Based on observations, European and New World herbals were no different than each other.
-<param ve-image url="http://22globalconnections.weebly.com/uploads/3/8/4/6/38466919/733488874.jpg">
+<param ve-image url="![image](https://user-images.githubusercontent.com/90805314/146626190-89a3ca0d-fda1-49c2-b27c-99966b3acac4.png)">
 
 ## Multiple viewers
 
